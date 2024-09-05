@@ -18,7 +18,7 @@ This project is a simple web application that displays random inspirational quot
 - JavaScript: Logic for selecting and displaying random quotes, as well as changing the background color.
 ## How to Use
 
-- *link*:
+- *link*:https://codesaadumair.github.io/Quotes-App/
 ## Files
 
 
